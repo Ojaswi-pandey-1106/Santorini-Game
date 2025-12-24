@@ -1,0 +1,4 @@
+([('santorini',
+   '/Users/ojaswipandey/Desktop/FIT3077 Santorini '
+   'project/opan0008/dist/santorini',
+   'EXECUTABLE')],)
