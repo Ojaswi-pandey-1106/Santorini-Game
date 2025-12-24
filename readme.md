@@ -1,4 +1,6 @@
-
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 ## How to run this?
 The following executable has been created for MacOS Sequioa and Python 3.13.3
 
